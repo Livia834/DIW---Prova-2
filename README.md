@@ -67,7 +67,7 @@ d)
 
 Questão 7)
 
-a) Essa função é do tipo  
+a) 
 
 b)
 
